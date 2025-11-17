@@ -1,4 +1,4 @@
-### PBLJ - Class Experiments
+### PBLJ - End Sem Practical
 
 > UID - <b>23BCS10087</b><br/>
 > Name - <b>Vanshit</b><br/>
